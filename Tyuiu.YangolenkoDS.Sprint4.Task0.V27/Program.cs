@@ -39,7 +39,7 @@ namespace Tyuiu.YangolenkoDS.Sprint4.Task0.V27
             Console.WriteLine("*************************************************************************************");
 
             Console.WriteLine("Произведение нечетных элементов массива = " + res);
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }

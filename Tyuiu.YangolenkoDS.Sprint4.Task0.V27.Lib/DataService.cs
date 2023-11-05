@@ -20,7 +20,7 @@ namespace Tyuiu.YangolenkoDS.Sprint4.Task0.V27.Lib
                     Mult *= array[i];
                 }
             }
-            return Mult;
+            return Mult; 
         }
     }
 }

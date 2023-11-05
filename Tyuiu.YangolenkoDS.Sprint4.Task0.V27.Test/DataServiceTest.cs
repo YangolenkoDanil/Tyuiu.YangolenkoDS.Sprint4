@@ -16,7 +16,7 @@ namespace Tyuiu.YangolenkoDS.Sprint4.Task0.V27.Test
             int wait = 6615;
             int res = ds.GetMultOddArrEl(array);
 
-            Assert.AreEqual(wait, res);
+            Assert.AreEqual(wait, res); 
         }
     }
 }
