@@ -13,9 +13,9 @@ namespace Tyuiu.YangolenkoDS.Sprint4.Task2.V26.Lib
         public int Calculate(int[] array)
         {
             int Mult = 1;
-            for (int i = 0;  i < array.Length - 1; i++)
+            for (int i = 0;  i < array.Length; i++)
             {
-                if (i > 0 && i < 9 && array[i] % 2 != 0)
+                if (array[i] % 2 != 0)
                 {
                     Mult *= array[i];
                 }

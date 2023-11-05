@@ -32,13 +32,13 @@ namespace Tyuiu.YangolenkoDS.Sprint4.Task2.V26
 
             int len = 14;
             int[] array = new int[len];
-            for (int i  = 0; i <= len - 1; i++)
+            for (int i  = 0; i < len - 1; i++)
             {
-                array[i] = rnd.Next(1,30);
+                array[i] = rnd.Next(1,8);
             }
 
             Console.WriteLine("Массив: ");
-            for (int i = 0; i <= len - 1; i++)
+            for (int i = 0; i < len - 1; i++)
             {
                 Console.Write(array[i] + "\t");
             }
