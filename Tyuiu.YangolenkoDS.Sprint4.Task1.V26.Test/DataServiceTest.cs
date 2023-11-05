@@ -15,7 +15,7 @@ namespace Tyuiu.YangolenkoDS.Sprint4.Task1.V26.Test
 
             int[] array = { 7, 7, 8, 8, 2, 6, 3, 3, 3, 1 };
             int res = ds.Calculate(array);
-            int wait = 23;
+            int wait = 24;
 
             Assert.AreEqual(wait, res);
         }
