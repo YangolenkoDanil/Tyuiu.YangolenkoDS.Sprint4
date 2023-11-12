@@ -17,7 +17,7 @@ namespace Tyuiu.YangolenkoDS.Sprint4.Task5.V5
             Console.Title = "Спринт #4 | Выполнил: Янголенко Д. С. | АСОиУб-23-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #4                                                                         *");
-            Console.WriteLine("* Тема: Одномерные массивы (генератор случайных чисел)                              *");
+            Console.WriteLine("* Тема: Двумерные массивы (генератор случайных чисел)                               *");
             Console.WriteLine("* Задание #5                                                                        *");
             Console.WriteLine("* Вариант #5                                                                        *");
             Console.WriteLine("* Выполнил: Янголенко Данил Сергеевич | АСОиУб-23-1                                 *");
